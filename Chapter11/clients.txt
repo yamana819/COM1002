@@ -1,0 +1,10 @@
+100 ahmet 14.53
+200 furkan 10.71
+300 onur 10.41
+400 aametK 13.89
+500 enis 5.71
+600 kaan -3.23
+700 kerem -31.31
+800 sarp 0.00
+900 mete -23.42
+1000 zekeriya 0.00
