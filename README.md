@@ -1,6 +1,6 @@
 # COM1002 - Introduction to Computer Programming II (C Language)
 
-This repository contains algorithms and laboratory works implemented in C for the **COM1002** course.
+This repository contains algorithms and laboratory works implemented in C for the **COM1002(Computer Programming)** course.
 
 ## 📚 Resources
 The main textbook used is **"C How to Program" by Deitel & Deitel**. Many examples in this folder are solutions or adaptations of the "Exercises" sections from this book.
